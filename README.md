@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm MANMAY CHAKRABORTY</h1>
 <h3 align="center">A passionate Coder from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=LEH5tUEQ&id=FDF72191A5590ED04408A310CF78557E53D10249&thid=OIP.LEH5tUEQReWe8Iu-UEV3PgHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f926537%2fscreenshots%2f4502924%2fpython-2.gif&exph=600&expw=800&q=animated+coding+images&simid=608038589182796271&FORM=IRPRST&ck=06FE3A8CFFC3DCCE49126E51DF39FEB6&selectedIndex=9&ajaxhist=0&ajaxserp=0.GIF">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manmay2&label=Profile%20views&color=0e75b6&style=flat" alt="manmay2" /> </p>
 
