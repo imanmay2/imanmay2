@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/manmaychakrabo1" target="blank"><img src="https://img.shields.io/twitter/follow/manmaychakrabo1?logo=twitter&style=for-the-badge" alt="manmaychakrabo1" /></a> </p>
 
-- ⚡ I am currently building an AI application - **[github.com/manmay2/DARZEN-AI-](DARZEN)**
+- ⚡ I am currently building an AI application - **[DARZEN](github.com/manmay2/DARZEN-AI-)**
 
 - 🌱 I’m currently learning **JAVASCRIPT AND C++**
 
-- 👨‍💻 All of my projects are available  [github.com/manmay2?tab=repositories](here)
+- 👨‍💻 All of my projects are available  [here](github.com/manmay2?tab=repositories)
 
 - 💬 Ask me about **PYTHON,HTML,CSS,SQL**
 
 - 📫 How to reach me **manmaycoder@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1b7ELJ-1Mt9hK4lPCHHDBS4jwxAsTpPtJ8qJO_QdkMS8/edit?usp=sharing](here)
+- 📄 Know about my experiences [here](https://docs.google.com/document/d/1b7ELJ-1Mt9hK4lPCHHDBS4jwxAsTpPtJ8qJO_QdkMS8/edit?usp=sharing)
 
 - ⚡ Fun fact **PROGRAMMING CAN'T LIVE WITHOUT ME.**
 
