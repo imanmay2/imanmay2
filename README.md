@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/manmaychakrabo1" target="blank"><img src="https://img.shields.io/twitter/follow/manmaychakrabo1?logo=twitter&style=for-the-badge" alt="manmaychakrabo1" /></a> </p>
 
-- ⚡ I am currently building an AI application - **[DARZEN](github.com/manmay2/DARZEN-AI-)**
+- ⚡ I am currently building an AI application - **[DARZEN](www.github.com/manmay2/DARZEN-AI-)**
 
 - 🌱 I’m currently learning **JAVASCRIPT AND C++**
 
-- 👨‍💻 All of my projects are available  [here](github.com/manmay2?tab=repositories)
+- 👨‍💻 All of my projects are available  [here](www.github.com/manmay2?tab=repositories)
 
 - 💬 Ask me about **PYTHON,HTML,CSS,SQL**
 
