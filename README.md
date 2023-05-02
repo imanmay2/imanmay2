@@ -1,7 +1,7 @@
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://manmay2.io)
 <h1 align="center">Hi 👋, I'm MANMAY CHAKRABORTY</h1>
-<h2 align="center"> A PASSIONATE THING WHICH I LIKE THE MOST IS <B>CODING</B>.</h2>
+<h2 align="center"> A PASSIONATE THING WHICH I LIKE THE MOST IS <B>PROGRAMMING</B>.</h2>
 <img align="right" alt="Coding" width="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manmay2&label=Profile%20views&color=0e75b6&style=flat" alt="manmay2" /> </p>
 
@@ -9,19 +9,19 @@
 
 <p align="left"> <a href="https://twitter.com/manmaychakrabo1" target="blank"><img src="https://img.shields.io/twitter/follow/manmaychakrabo1?logo=twitter&style=for-the-badge" alt="manmaychakrabo1" /></a> </p>
 
-- ⚡ I am currently building an AI application - **DARZEN**
+- ⚡ I am currently building an AI application - **[github.com/manmay2/DARZEN-AI-](DARZEN)**
 
 - 🌱 I’m currently learning **JAVASCRIPT AND C++**
 
-- 👨‍💻 All of my projects are available at [github.com/manmay2](github.com/manmay2)
+- 👨‍💻 All of my projects are available  [github.com/manmay2?tab=repositories](here)
 
 - 💬 Ask me about **PYTHON,HTML,CSS,SQL**
 
 - 📫 How to reach me **manmaycoder@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1b7ELJ-1Mt9hK4lPCHHDBS4jwxAsTpPtJ8qJO_QdkMS8/edit?usp=sharing](https://docs.google.com/document/d/1b7ELJ-1Mt9hK4lPCHHDBS4jwxAsTpPtJ8qJO_QdkMS8/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1b7ELJ-1Mt9hK4lPCHHDBS4jwxAsTpPtJ8qJO_QdkMS8/edit?usp=sharing](here)
 
-- ⚡ Fun fact **CODING CAN'T LIVE WITHOUT ME.**
+- ⚡ Fun fact **PROGRAMMING CAN'T LIVE WITHOUT ME.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
