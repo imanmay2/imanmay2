@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/manmaychakrabo1" target="blank"><img src="https://img.shields.io/twitter/follow/manmaychakrabo1?logo=twitter&style=for-the-badge" alt="manmaychakrabo1" /></a> </p>
 
-- ⚡ I am currently building an AI application - **[DARZEN](https://github.com/manmay2/DARZEN-AI-)**
+⚡ 
 
 - 🌱 I’m currently learning **JAVASCRIPT AND C++**
 
