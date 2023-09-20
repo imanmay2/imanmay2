@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **PYTHON,HTML,CSS,SQL**
 
-- 📫 How to reach me **manmaycoder@gmail.com**
+- 📫 How to reach me **imanmay2@gmail.com**
 
 - 📄 Know about my experiences [here](https://docs.google.com/document/d/1b7ELJ-1Mt9hK4lPCHHDBS4jwxAsTpPtJ8qJO_QdkMS8/edit?usp=sharing)
 
