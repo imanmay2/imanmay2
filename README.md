@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/manmaychakrabo1" target="blank"><img src="https://img.shields.io/twitter/follow/manmaychakrabo1?logo=twitter&style=for-the-badge" alt="manmaychakrabo1" /></a> </p>
 
 
-- 🌱 I’m currently learning **JAVASCRIPT AND C++**
+- 🌱 I’m currently learning **JAVA DSA Stuff**
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/manmay2?tab=repositories)
 
@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://twitter.com/manmaychakrabo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manmaychakrabo1" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kai.tyson.967/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="n" height="30" width="40" /></a>
-<a href="https://instagram.com/manmaychakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manmaychakraborty" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
