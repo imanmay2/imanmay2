@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/manmay2?tab=repositories)
 
-- 💬 Ask me about **PYTHON,HTML,CSS,SQL,Javascript,C,C++**
+- 💬 Ask me about **PYTHON,HTML,CSS,SQL,Javascript,C,C++,JAVA**
 
 - 📫 How to reach me **imanmay2@gmail.com**
 
