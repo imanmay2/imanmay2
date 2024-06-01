@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manmay2" alt="manmay2" /></a> </p>
 
-<p align="left"> <a href="(https://x.com/imanmay2)" target="blank"><img src="https://img.shields.io/twitter/follow/manmaychakrabo1?logo=twitter&style=for-the-badge" alt="manmaychakrabo1" /></a> </p>
+<p align="left"> <a href="https://x.com/imanmay2" target="blank"><img src="https://img.shields.io/twitter/follow/manmaychakrabo1?logo=twitter&style=for-the-badge" alt="manmaychakrabo1" /></a> </p>
 
 
 - 🌱 I’m currently learning **JAVA DSA **
