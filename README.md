@@ -24,9 +24,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://www.facebook.com/imanmay2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="n" height="30" width="40" /></a>
-
+<a href="https://twitter.com/imanmay2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imanmay2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imanmay2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imanmay2" height="30" width="40" /></a>
+<a href="https://fb.com/imanmay2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imanmay2" height="30" width="40" /></a>
+<a href="https://instagram.com/imanmay2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imanmay2" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/imanmay2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imanmay2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/imanmay2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imanmay2" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/imanmay2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="imanmay2" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/imanmay2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imanmay2" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@imanmay2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@imanmay2" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/imanmay2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="imanmay2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
