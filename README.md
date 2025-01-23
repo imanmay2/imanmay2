@@ -10,11 +10,11 @@
 
 
 
-- 🌱 I’m currently learning **JAVA DSA **
+- 🌱 I’m currently learning ** WEB-DEVELOPMENT **
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/imanmay2?tab=repositories)
 
-- 💬 Ask me about **PYTHON,HTML,CSS,SQL,Javascript,C,C++,JAVA**
+- 💬 Ask me about **PYTHON,HTML,CSS,SQL,Javascript,C,C++,JAVA,NodeJS,ExpressJS,MongoDB,**
 
 - 📫 How to reach me **imanmay2@gmail.com**
 
