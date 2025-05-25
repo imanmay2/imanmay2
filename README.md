@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/imanmay2?tab=repositories)
 
-- 💬 Ask me about **PYTHON,HTML,CSS,SQL,Javascript,C,C++,JAVA,MongoDB,ExpressJS,ReactJS,NodeJS**
+- 💬 Ask me about **PYTHON,HTML,CSS,SQL,Javascript,C,C++,JAVA,MongoDB,ExpressJS,ReactJS,NodeJS,TailWind_CSS**
 
 - 📫 How to reach me **imanmay2@gmail.com**
 
