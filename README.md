@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning ** WEB-DEVELOPMENT **
+- 🌱 Skilling up with ** Data Structures and Algorithm **
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/imanmay2?tab=repositories)
 
