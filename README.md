@@ -37,7 +37,7 @@ const manmay = {
 * 🚀 Building systems, not just projects
 * 🧠 Strong focus on **Data Structures & System Design**
 * ⚙️ Interested in **Backend Engineering + AI Integration**
-* 🌍 Open to **international opportunities (Europe)**
+* 🌍 Open to **international opportunities **
 * 💬 Ask me about **MERN, APIs, Backend Architecture**
 
 <br clear="right"/>
@@ -148,7 +148,7 @@ const manmay = {
 ## 🎯 2026 Goals
 
 * 🚀 Build production-grade scalable systems
-* 🌍 Land a Software Engineering role in Europe
+* 🌍 Land a Software Engineering role
 * 🧠 Master System Design & Backend Architecture
 
 ---
