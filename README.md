@@ -30,7 +30,7 @@ const manmay = {
   focus: ["Scalable Systems", "API Design", "AI Integration"],
   tech: ["Node.js", "Go", "MongoDB", "React"],
   current: "Building production-ready full-stack apps",
-  goal: "Software Engineer role in Europe 🇪🇺",
+  goal: "Software Engineer role 🇪🇺",
 };
 ```
 
