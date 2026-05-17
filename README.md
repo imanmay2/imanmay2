@@ -2,14 +2,19 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a192f,100:112240&height=200&section=header&text=Manmay%20Chakraborty&fontSize=56&fontColor=ccd6f6&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20AI%20Builder&descAlignY=62&descSize=16&descColor=64ffda" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=64FFDA&center=true&vCenter=true&width=680&lines=Building+real-time+systems+in+Node.js+%26+Go;Full-stack+with+a+backend+bias;LangChain+%2B+FastAPI+%2B+biomedical+data+%E2%86%92+shipped+in+24h;Open+to+backend+%2F+AI+internships+in+Europe+%F0%9F%87%AA%F0%9F%87%BA" />
-
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=64FFDA&center=true&vCenter=true&width=680&lines=Building+real-time+systems+in+Node.js+%26+Go;Full-stack+with+a+backend+bias;LangChain+%2B+FastAPI+%2B+biomedical+data+%E2%86%92+shipped+in+24h;Open+to+backend+%2F+AI+internships+globally+%F0%9F%9A%80" />
+
+<br/><br/>
+
 <a href="https://linkedin.com/in/imanmay2"><img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=64ffda"/></a>
+&nbsp;
 <a href="mailto:imanmay2@gmail.com"><img src="https://img.shields.io/badge/imanmay2@gmail.com-0a192f?style=for-the-badge&logo=gmail&logoColor=64ffda"/></a>
+&nbsp;
 <a href="https://github.com/imanmay2"><img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=64ffda"/></a>
-<img src="https://komarev.com/ghpvc/?username=imanmay2&style=for-the-badge&color=64ffda&labelColor=0a192f&label=VIEWS"/>
+&nbsp;
+<a href="https://leetcode.com/imanmay2"><img src="https://img.shields.io/badge/LeetCode-0a192f?style=for-the-badge&logo=leetcode&logoColor=64ffda"/></a>
 
 </div>
 
@@ -20,7 +25,7 @@ const manmay = {
   focus:    "backend systems, real-time infra, AI integration",
   degree:   "B.Tech CSE (AI & ML) — VIT Chennai, 2028",
   now:      "building NexCare, a telemedicine platform with video + pharmacy workflows",
-  looking:  "backend / AI internships in Europe — available from May 2026",
+  looking:  "backend / AI internships — available from May 2026",
   belief:   "a well-designed API is better than a pretty UI",
 };
 ```
@@ -31,9 +36,9 @@ I work primarily in **Node.js** and **Go** on the backend, use **React/Next.js**
 
 ---
 
-## Projects
+## 🚀 Projects
 
-> These are things I built to solve actual problems, not to pad a portfolio.
+> Things I built to solve actual problems, not to pad a portfolio.
 
 ---
 
@@ -90,40 +95,42 @@ Yes, it's an Airbnb-style app. But the point wasn't the idea — it was getting 
 
 ---
 
-## Stack
+## 🛠️ Stack
 
 I use what solves the problem. These are the tools I'm actually comfortable with:
 
-**Backend**
-`Node.js` `Express.js` `Go (Gin)` `FastAPI` `WebSockets` `REST` `gRPC (learning)`
+<div align="center">
 
-**Frontend**
-`React` `Next.js` `TypeScript` `Tailwind CSS`
+![Skills](https://skillicons.dev/icons?i=nodejs,go,python,react,nextjs,ts,postgres,mongodb,redis,docker,linux,git&perline=12)
 
-**Data**
-`PostgreSQL` `MongoDB` `Redis` `Supabase` `MySQL`
+</div>
 
-**Infrastructure**
-`Docker` `CI/CD (GitHub Actions)` `Linux`
+<br/>
 
-**AI / ML**
-`LangChain` `Cohere AI` `FastAPI` `Python`
+**Backend** &nbsp; `Node.js` `Express.js` `Go (Gin)` `FastAPI` `WebSockets` `REST` `gRPC (learning)`
 
-**Languages**
-`JavaScript` `TypeScript` `Go` `Python` `C++` `Java`
+**Frontend** &nbsp; `React` `Next.js` `TypeScript` `Tailwind CSS`
+
+**Data** &nbsp; `PostgreSQL` `MongoDB` `Redis` `Supabase` `MySQL`
+
+**Infrastructure** &nbsp; `Docker` `CI/CD (GitHub Actions)` `Linux`
+
+**AI / ML** &nbsp; `LangChain` `Cohere AI` `FastAPI` `Python`
+
+**Languages** &nbsp; `JavaScript` `TypeScript` `Go` `Python` `C++` `Java`
 
 ---
 
-## Currently
+## 📍 Currently
 
 - 🏗️ Building **NexCare** — telemedicine + pharmacy workflow platform
 - 📖 Going deeper into **distributed systems** — consensus, replication, partition tolerance
 - ⚙️ Learning **gRPC** for inter-service communication in Go
-- 🇪🇺 Actively applying for **backend / AI engineering internships in Europe** (available May 2026)
+- 🌍 Actively applying for **backend / AI engineering internships** — available from **May 2026**
 
 ---
 
-## Experience
+## 💼 Experience
 
 **Software Engineer Intern — Cestrum Technologies** *(Nov 2025 – Feb 2026)*
 Built WebSocket backend for real-time communication — connection lifecycle management, message broadcasting across concurrent sessions, and server-side event processing. First time I had to care about what happens at 500 simultaneous connections, not just 5.
@@ -136,22 +143,30 @@ Built a real-time Stock Market Simulator — live price indicators, interactive 
 
 ---
 
-## GitHub Stats
+## ⏱️ Weekly Coding Breakdown
+
+<!--START_SECTION:waka-->
+> Set up [WakaTime](https://wakatime.com) + the [waka-readme](https://github.com/athul/waka-readme) GitHub Action to auto-populate live coding stats here.
+<!--END_SECTION:waka-->
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=imanmay2&show_icons=true&theme=transparent&hide_border=true&title_color=64ffda&icon_color=64ffda&text_color=8892b0&bg_color=0d1117&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=imanmay2&show_icons=true&theme=transparent&hide_border=true&title_color=64ffda&icon_color=64ffda&text_color=8892b0&bg_color=0d1117&count_private=true&include_all_commits=true"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=imanmay2&theme=transparent&hide_border=true&stroke=64ffda&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&background=0d1117"/>
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanmay2&layout=compact&theme=transparent&hide_border=true&title_color=64ffda&text_color=8892b0&bg_color=0d1117&langs_count=6"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanmay2&layout=compact&theme=transparent&hide_border=true&title_color=64ffda&text_color=8892b0&bg_color=0d1117&langs_count=6&hide=html,css"/>
 
 </div>
 
 ---
 
-## Activity
+## 📈 Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=imanmay2&bg_color=0d1117&color=64ffda&line=64ffda&point=ccd6f6&area=true&area_color=112240&hide_border=true"/>
@@ -159,7 +174,7 @@ Built a real-time Stock Market Simulator — live price indicators, interactive 
 
 ---
 
-## Trophies
+## 🏆 Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=imanmay2&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7"/>
@@ -167,7 +182,7 @@ Built a real-time Stock Market Simulator — live price indicators, interactive 
 
 ---
 
-## Contact
+## 📬 Contact
 
 If you're building something interesting in backend infrastructure, real-time systems, or AI tooling — and you need someone who'll figure things out rather than wait to be told what to do — reach out.
 
