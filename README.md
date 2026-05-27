@@ -43,24 +43,13 @@ I work primarily in **Node.js** and **Go** on the backend, use **React/Next.js**
 ---
 
 ### NexCare — Telemedicine Platform
-`Node.js` `WebRTC` `WebSockets` `PostgreSQL` `Redis` `Docker`
+`Go` `WebRTC` `WebSockets` `PostgreSQL` `Redis` `Docker`
 
 Full-stack telemedicine system with real-time video consultations, asynchronous prescription management, and a pharmacy workflow that tracks medication status from prescription to dispensing.
 
 The interesting engineering problems: WebRTC signalling under unreliable network conditions, session state across disconnects, and keeping the pharmacy queue consistent without a race condition when multiple pharmacists are online.
 
-**Status:** Active development &nbsp;|&nbsp; [Repo →](https://github.com/imanmay2)
-
----
-
-### iChat — Real-Time Chat Infrastructure
-`Node.js` `WebSockets` `WebRTC` `Redis Pub/Sub` `MongoDB`
-
-Real-time chat application built to understand the actual mechanics of WebSocket connection management — not just `socket.emit()`. Implemented Redis Pub/Sub for horizontal scaling so sessions on different server instances can communicate, and WebRTC for peer-to-peer voice.
-
-The goal was to understand what breaks when you move from 1 server to 3.
-
-**Status:** Complete &nbsp;|&nbsp; [Repo →](https://github.com/imanmay2)
+**Status:** Active development &nbsp;|&nbsp; [Repo →](https://github.com/imanmay2/NexCare)
 
 ---
 
@@ -71,7 +60,7 @@ Built in 24 hours at a hackathon. Agentic AI system that takes a disease query, 
 
 This was the project that made me take LLM tool-use seriously.
 
-**Status:** Hackathon build &nbsp;|&nbsp; [Repo →](https://github.com/imanmay2)
+**Status:** Hackathon build &nbsp;|&nbsp; [Repo →](https://github.com/imanmay2/PharmaMind)
 
 ---
 
@@ -82,7 +71,7 @@ Quiz platform where you create a test and share a unique ID — anyone with the 
 
 The schema design for tracking attempts without duplicating question data was the most interesting part.
 
-**Status:** Complete &nbsp;|&nbsp; [Repo →](https://github.com/imanmay2)
+**Status:** Complete &nbsp;|&nbsp; [Repo →](https://github.com/imanmay2/QNeX)
 
 ---
 
@@ -91,7 +80,7 @@ The schema design for tracking attempts without duplicating question data was th
 
 Yes, it's an Airbnb-style app. But the point wasn't the idea — it was getting comfortable with geospatial queries, RESTful resource design, and authentication flows (session vs token, CSRF handling). Mapbox integration for radius-based listing search was the non-tutorial part.
 
-**Status:** Complete &nbsp;|&nbsp; [Repo →](https://github.com/imanmay2)
+**Status:** Complete &nbsp;|&nbsp; [Repo →](https://github.com/imanmay2/wander_lust)
 
 ---
 
