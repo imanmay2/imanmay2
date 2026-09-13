@@ -14,7 +14,7 @@
 &nbsp;
 <a href="https://github.com/imanmay2"><img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=64ffda"/></a>
 &nbsp;
-<a href="https://leetcode.com/imanmay2"><img src="https://img.shields.io/badge/LeetCode-0a192f?style=for-the-badge&logo=leetcode&logoColor=64ffda"/></a>
+
 
 </div>
 
