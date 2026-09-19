@@ -27,7 +27,7 @@
 
 ## `$ whoami`
 
-<img align="right" width="215" src="assets/avatar.svg" alt="Manmay Chakraborty"/>
+<img align="right" width="262" src="assets/portrait.svg" alt="ASCII portrait of Manmay Chakraborty"/>
 
 I'm a backend-heavy full-stack developer who'd rather design a system than clone a tutorial.
 
@@ -51,60 +51,9 @@ const manmay = {
 } as const;
 ```
 
-<details>
-<summary><b>↳ …and the same guy, drawn with ten characters</b> <sub>(click)</sub></summary>
-
-<br/>
-
-```
-                  ..          .:.
-                                ..
-             ... ...           ...
-           .....             .
-         :....
-            .       .  .:                   .-=
-           ..  ..       .                   ..-:
-             .              .......
-        ... ..                   ..    .
-             .
-         .     .  .
-   .      .. .:   ..
-       .            .:.        :==.
-       ..         .:  .+-    .=++**+=: .
-:         .:.   :-#++..: . .--+=++++=-=:
--.         .:..=:#@@@#+==-==-+-+***+=+=.
--:          -.++*@%%#%@%####**##**+==+=:
-:-.       .-+*#%@%%@@@%###%@%@%###**#+=-.
-:::     -##@@@*+*%%%%@@@@@%@@%*#+==-:. ..
-::-    .#%#+::.::-::.:--#@%#+-.  :-----:
--::-   .#%#+**++=+-:=:=*#%@#  .=*=-:=-:-:.-
--.+##- :%%@%*=.-*-.:*==*#%%#:  +%=::=: :-+*.
-:.#%@@.:%%%#%%*+**+=-+%%%%%%+   ++====+##=-:
-:.*%%@=:%#%%@@%%%#%%@@%##%@@#-  :%%#%%%*-::
--..%%*%:*#@@%@@@@@@@%%#%#%@@@*....*%%%%*=..
--: *%#%.+#%%%@@@@@*+%@@#**%@#. .. :@@%#*+.
-:: :@%%+-#%%%@@@@++###*+++=-: ...:-++%#+=:    ..
-::. -*#=:**%%%%@%-+-=++====+*-:::. -:#%+-=.
-..::.   .*#%#%@@@==++++=+*++**+.  =*+@#-.-
- ::::... :#%%%%%@%#@@%%#*#==++-.:=+-*%=-:.
-  :::..   :=#*#%#%@%%%@@%*++-+***+-=*=..
-  ....     -:-*#%#%@%@@%@@@%%*+===-...
-   .....   +#...=#%*%%#%%%#*%#++=-.
-    ....   -@*=:.:-:..-==-=+---:.
-     ...   .%@#*-..::
-      ...   #%#%##**=+==--:..:..    ...
-          -+*#%%%@@%#####*##+=::...-=--.
-         =+++##%%@@@@@@%###*+==-=--==:.
-           ++*###%@@@@@@@@%###*===+=:..
-             *####%%%%@@@%%%#*++++=-::-:.
-               *#####%%%####**+++==:--.
-                 =+#########++***-:..
-```
-
-<sub>Generated straight from my photo — luminance mapped onto a 10-step character ramp,
-elliptical mask to drop the background. The script is in <a href="assets/">assets/</a>.</sub>
-
-</details>
+<sub>The portrait above is my actual photograph, not hand-drawn — luminance remapped through a levels
+pass, background dropped with a feathered elliptical mask, then quantised onto a ten-character ramp.
+Generator: <a href="assets/ascii_portrait.py">assets/ascii_portrait.py</a>.</sub>
 
 ---
 
@@ -251,37 +200,19 @@ non-tutorial part.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=imanmay2&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=64ffda&icon_color=64ffda&text_color=8892b0&bg_color=0d1117&ring_color=64ffda"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=imanmay2&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0a7f6b&icon_color=0a7f6b&text_color=3b4252&bg_color=ffffff" alt="GitHub stats"/>
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=imanmay2&hide_border=true&background=0d1117&stroke=64ffda&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&currStreakNum=ccd6f6&sideNums=ccd6f6"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=imanmay2&hide_border=true&background=ffffff&stroke=0a7f6b&ring=0a7f6b&fire=ff6b6b&currStreakLabel=0a7f6b" alt="Contribution streak"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=imanmay2&hide_border=true&background=ffffff&stroke=0a7f6b&ring=0a7f6b&fire=ff6b6b&currStreakLabel=0a7f6b" alt="Contribution streak"/>
 </picture>
-
-<br/><br/>
-
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanmay2&layout=compact&hide_border=true&langs_count=8&hide=html,css&title_color=64ffda&text_color=8892b0&bg_color=0d1117" alt="Top languages"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=imanmay2&bg_color=0d1117&color=ccd6f6&line=64ffda&point=64ffda&area=true&area_color=112240&hide_border=true&custom_title=Commit%20activity" alt="Contribution activity graph"/>
+<img width="48%" src="assets/langs.svg" alt="Most used languages"/>
 
 </div>
-
-<details>
-<summary><b>↳ contribution snake</b> <sub>(needs the workflow in <code>.github/workflows/snake.yml</code> to run once)</sub></summary>
-
-<br/>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imanmay2/imanmay2/output/snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/imanmay2/imanmay2/output/snake.svg" alt="Snake eating my contribution graph"/>
+    <img width="100%" src="https://raw.githubusercontent.com/imanmay2/imanmay2/output/snake.svg" alt="A snake eating my contribution graph"/>
   </picture>
 </div>
-
-</details>
 
 ---
 
@@ -303,4 +234,4 @@ someone who'll go figure it out rather than wait to be told what to do — I'd l
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:112240,50:0a192f,100:0d1117&height=130&section=footer" alt=""/>
+<img width="100%" src="assets/footer.svg" alt=""/>

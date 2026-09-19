@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 332 368" width="332" height="368" role="img" aria-label="ASCII portrait of Manmay Chakraborty">
+  <title>portrait.ascii</title>
+  <defs>
+    <linearGradient id="ink" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%"   stop-color="#9df7e5"/>
+      <stop offset="38%"  stop-color="#64ffda"/>
+      <stop offset="72%"  stop-color="#57b6f5"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#64ffda" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#64ffda" stop-opacity=".16"/>
+      <stop offset="100%" stop-color="#64ffda" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="bloom" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="1.1" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="win"><rect width="332" height="368" rx="10"/></clipPath>
+    <clipPath id="screen"><rect y="34" width="332" height="334"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#win)">
+    <rect width="332" height="368" fill="#0b1018"/>
+    <rect width="332" height="34" fill="#111a27"/>
+    <line x1="0" y1="34" x2="332" y2="34" stroke="#64ffda" stroke-opacity=".22"/>
+    <g>
+      <circle cx="18" cy="17.0" r="4.5" fill="#ff5f57" fill-opacity=".85"/>
+      <circle cx="34" cy="17.0" r="4.5" fill="#febc2e" fill-opacity=".85"/>
+      <circle cx="50" cy="17.0" r="4.5" fill="#28c840" fill-opacity=".85"/>
+    </g>
+    <text x="166.0" y="20.6" text-anchor="middle" font-family='ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono", monospace'
+          font-size="10.5" fill="#64ffda" fill-opacity=".72" letter-spacing=".6">portrait.ascii</text>
+
+    <g font-family='ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono", monospace' font-size="10.0" fill="url(#ink)" filter="url(#bloom)">
+      <text x="22" y="58.5" xml:space="preserve">       ..         .:  .+-    .=++**+=: .</text>
+      <text x="22" y="68.9" xml:space="preserve">:         .:.   :-#++..: . .--+=++++=-=:</text>
+      <text x="22" y="79.3" xml:space="preserve">-.         .:..=:#@@@#+==-==-+-+***+=+=.</text>
+      <text x="22" y="89.7" xml:space="preserve">-:          -.++*@%%#%@%####**##**+==+=:</text>
+      <text x="22" y="100.1" xml:space="preserve">:-.       .-+*#%@%%@@@%###%@%@%###**#+=-.</text>
+      <text x="22" y="110.5" xml:space="preserve">:::     -##@@@*+*%%%%@@@@@%@@%*#+==-:. ..</text>
+      <text x="22" y="120.9" xml:space="preserve">::-    .#%#+::.::-::.:--#@%#+-.  :-----:</text>
+      <text x="22" y="131.3" xml:space="preserve">-::-   .#%#+**++=+-:=:=*#%@#  .=*=-:=-:-:.-</text>
+      <text x="22" y="141.7" xml:space="preserve">-.+##- :%%@%*=.-*-.:*==*#%%#:  +%=::=: :-+*.</text>
+      <text x="22" y="152.1" xml:space="preserve">:.#%@@.:%%%#%%*+**+=-+%%%%%%+   ++====+##=-:</text>
+      <text x="22" y="162.5" xml:space="preserve">:.*%%@=:%#%%@@%%%#%%@@%##%@@#-  :%%#%%%*-::</text>
+      <text x="22" y="172.9" xml:space="preserve">-..%%*%:*#@@%@@@@@@@%%#%#%@@@*....*%%%%*=..</text>
+      <text x="22" y="183.3" xml:space="preserve">-: *%#%.+#%%%@@@@@*+%@@#**%@#. .. :@@%#*+.</text>
+      <text x="22" y="193.7" xml:space="preserve">:: :@%%+-#%%%@@@@++###*+++=-: ...:-++%#+=:    ..</text>
+      <text x="22" y="204.1" xml:space="preserve">::. -*#=:**%%%%@%-+-=++====+*-:::. -:#%+-=.</text>
+      <text x="22" y="214.5" xml:space="preserve">..::.   .*#%#%@@@==++++=+*++**+.  =*+@#-.-</text>
+      <text x="22" y="224.9" xml:space="preserve"> ::::... :#%%%%%@%#@@%%#*#==++-.:=+-*%=-:.</text>
+      <text x="22" y="235.3" xml:space="preserve">  :::..   :=#*#%#%@%%%@@%*++-+***+-=*=..</text>
+      <text x="22" y="245.7" xml:space="preserve">  ....     -:-*#%#%@%@@%@@@%%*+===-...</text>
+      <text x="22" y="256.1" xml:space="preserve">   .....   +#...=#%*%%#%%%#*%#++=-.</text>
+      <text x="22" y="266.5" xml:space="preserve">    ....   -@*=:.:-:..-==-=+---:.</text>
+      <text x="22" y="276.9" xml:space="preserve">     ...   .%@#*-..::</text>
+      <text x="22" y="287.3" xml:space="preserve">      ...   #%#%##**=+==--:..:..    ...</text>
+      <text x="22" y="297.7" xml:space="preserve">          -+*#%%%@@%#####*##+=::...-=--.</text>
+      <text x="22" y="308.1" xml:space="preserve">         =+++##%%@@@@@@%###*+==-=--==:.</text>
+      <text x="22" y="318.5" xml:space="preserve">           ++*###%@@@@@@@@%###*===+=:..</text>
+      <text x="22" y="328.9" xml:space="preserve">             *####%%%%@@@%%%#*++++=-::-:.</text>
+      <text x="22" y="339.3" xml:space="preserve">               *#####%%%####**+++==:--.</text>
+      <text x="22" y="349.7" xml:space="preserve">                 =+#########++***-:..</text>
+    </g>
+
+    <g clip-path="url(#screen)">
+      <rect x="0" y="34" width="332" height="46" fill="url(#scan)">
+        <animate attributeName="y" values="34;368" dur="5.5s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <rect width="332" height="368" rx="10" fill="none" stroke="#64ffda" stroke-opacity=".28"/>
+  </g>
+</svg>
