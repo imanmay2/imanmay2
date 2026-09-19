@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Manmay Chakraborty — Backend Engineer, Systems Thinker, AI Builder">
+  <title>Manmay Chakraborty — Backend Engineer</title>
+
+  <defs>
+    <!-- base background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#0d1117"/>
+      <stop offset="55%"  stop-color="#0a192f"/>
+      <stop offset="100%" stop-color="#112240"/>
+    </linearGradient>
+
+    <!-- shimmering sweep across the name -->
+    <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="-500" y1="0" x2="-100" y2="0">
+      <stop offset="0%"   stop-color="#5eead4"/>
+      <stop offset="42%"  stop-color="#ccd6f6"/>
+      <stop offset="50%"  stop-color="#ffffff"/>
+      <stop offset="58%"  stop-color="#ccd6f6"/>
+      <stop offset="100%" stop-color="#64ffda"/>
+      <animate attributeName="x1" values="-500;1200" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="-100;1600" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#64ffda" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#64ffda" stop-opacity=".85"/>
+      <stop offset="100%" stop-color="#64ffda" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="aurora1">
+      <stop offset="0%"   stop-color="#64ffda" stop-opacity=".30"/>
+      <stop offset="100%" stop-color="#64ffda" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="aurora2">
+      <stop offset="0%"   stop-color="#4f9cf9" stop-opacity=".26"/>
+      <stop offset="100%" stop-color="#4f9cf9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="aurora3">
+      <stop offset="0%"   stop-color="#a78bfa" stop-opacity=".20"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#64ffda" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="softglow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <clipPath id="frame"><rect width="1200" height="340" rx="18"/></clipPath>
+
+    <style>
+      .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace; }
+      .sans { font-family: ui-sans-serif, -apple-system, "Segoe UI", Inter, Helvetica, Arial, sans-serif; }
+
+      @keyframes blink { 0%,45% { opacity:1 } 50%,95% { opacity:0 } 100% { opacity:1 } }
+      .cursor { animation: blink 1.05s steps(1) infinite; }
+
+      @keyframes drift { 0% { opacity:.25 } 50% { opacity:.9 } 100% { opacity:.25 } }
+      .spark { animation: drift 3.4s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+
+    <!-- slow-moving aurora -->
+    <g>
+      <circle cx="220" cy="90" r="240" fill="url(#aurora1)">
+        <animateTransform attributeName="transform" type="translate"
+          values="0 0; 130 60; -40 30; 0 0" dur="17s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="980" cy="260" r="260" fill="url(#aurora2)">
+        <animateTransform attributeName="transform" type="translate"
+          values="0 0; -140 -70; 60 -20; 0 0" dur="21s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="640" cy="40" r="200" fill="url(#aurora3)">
+        <animateTransform attributeName="transform" type="translate"
+          values="0 0; 70 90; -90 40; 0 0" dur="25s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- signal trace that draws itself, like a request flowing through a system -->
+    <path d="M-20 294 L170 294 L206 262 L268 262 L300 294 L520 294 L556 260 L620 260 L652 294 L900 294 L936 264 L1000 264 L1032 294 L1220 294"
+          fill="none" stroke="#64ffda" stroke-opacity=".28" stroke-width="1.6"/>
+    <path d="M-20 294 L170 294 L206 262 L268 262 L300 294 L520 294 L556 260 L620 260 L652 294 L900 294 L936 264 L1000 264 L1032 294 L1220 294"
+          fill="none" stroke="#64ffda" stroke-opacity=".85" stroke-width="1.8"
+          stroke-dasharray="18 14">
+      <animate attributeName="stroke-dashoffset" values="0;-32" dur="1.1s" repeatCount="indefinite"/>
+    </path>
+    <circle r="4.5" fill="#64ffda" filter="url(#softglow)">
+      <animateMotion dur="7s" repeatCount="indefinite"
+        path="M-20 294 L170 294 L206 262 L268 262 L300 294 L520 294 L556 260 L620 260 L652 294 L900 294 L936 264 L1000 264 L1032 294 L1220 294"/>
+    </circle>
+
+    <!-- HUD corner brackets -->
+    <g stroke="#64ffda" stroke-opacity=".55" stroke-width="2" fill="none">
+      <path d="M34 66 L34 34 L66 34"/>
+      <path d="M1166 66 L1166 34 L1134 34"/>
+      <path d="M34 274 L34 306 L66 306"/>
+      <path d="M1166 274 L1166 306 L1134 306"/>
+    </g>
+
+    <!-- terminal prompt -->
+    <g class="mono" transform="translate(76 108)">
+      <text font-size="17" fill="#64ffda" letter-spacing="1.5">$</text>
+      <text x="22" font-size="17" fill="#8892b0" letter-spacing="1.5">whoami</text>
+      <rect class="cursor" x="98" y="-13" width="9" height="17" fill="#64ffda"/>
+    </g>
+
+    <!-- name -->
+    <text class="sans" x="74" y="186" font-size="72" font-weight="800"
+          letter-spacing="1" fill="url(#shine)" filter="url(#glow)">MANMAY CHAKRABORTY</text>
+
+    <!-- accent rule -->
+    <rect x="74" y="206" width="560" height="2" fill="url(#rule)"/>
+
+    <!-- role line -->
+    <g class="mono" font-size="17.5" letter-spacing="3.4" fill="#8892b0">
+      <text x="76" y="240">BACKEND ENGINEER</text>
+      <text x="330" y="240" fill="#64ffda">·</text>
+      <text x="352" y="240">SYSTEMS THINKER</text>
+      <text x="594" y="240" fill="#64ffda">·</text>
+      <text x="616" y="240">AI BUILDER</text>
+    </g>
+
+    <!-- status chip -->
+    <g transform="translate(928 96)">
+      <rect x="0" y="-24" width="216" height="34" rx="17" fill="#64ffda" fill-opacity=".08"
+            stroke="#64ffda" stroke-opacity=".45"/>
+      <circle cx="22" cy="-7" r="4.5" fill="#64ffda" class="spark"/>
+      <text class="mono" x="38" y="-2" font-size="12" letter-spacing="1.1" fill="#64ffda">OPEN TO INTERNSHIPS</text>
+    </g>
+
+    <!-- drifting particles -->
+    <g fill="#64ffda">
+      <circle class="spark" cx="150" cy="60"  r="1.8"/>
+      <circle class="spark" cx="404" cy="44"  r="1.4" style="animation-delay:.6s"/>
+      <circle class="spark" cx="712" cy="72"  r="2"   style="animation-delay:1.2s"/>
+      <circle class="spark" cx="868" cy="40"  r="1.5" style="animation-delay:1.8s"/>
+      <circle class="spark" cx="1064" cy="176" r="1.7" style="animation-delay:.9s"/>
+      <circle class="spark" cx="268" cy="300" r="1.4" style="animation-delay:2.2s"/>
+    </g>
+
+    <rect width="1200" height="340" rx="18" fill="none" stroke="#64ffda" stroke-opacity=".22"/>
+  </g>
+</svg>
